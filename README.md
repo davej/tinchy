@@ -4,7 +4,7 @@ tinchy
 Uh, so... tinchy
 ----------------
 
-*tin·chy* _adj._ smaller than tiny.
+**tin·chy** _adj._ smaller than tiny.
 
 Yep, it's a really simply and small personal URL shortener that takes fatty URLS and makes them tinchy.
 
