@@ -32,6 +32,7 @@ def make_tinchy_url():
 def redirect_to_fatty_url(tinchy_id):
     storage = shelve.open("tinchy")
     if tinchy_id not in storage:
+        storage.close()
         return "Nope, this tinchy URL wasn't found."
     fatty_url = storage[tinchy_id]
     storage.close()
