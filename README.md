@@ -6,7 +6,7 @@ Uh, so... tinchy
 
 **tin·chy** _adj._ smaller than tiny.
 
-Yep, it's a really simply and small personal URL shortener that takes fatty URLS and makes them tinchy.
+Yep, it's a ridiculously simple and compact personal URL shortener that takes fatty URLS and makes them tinchy.
 
 tinchy urls are in the form of http://my-tinchy-domain/abc
 
