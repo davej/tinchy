@@ -13,7 +13,7 @@ tinchy urls are in the form of http://my-tinchy-domain/abc
 Dependancies
 ------------
 
-Just [Python 2.5+][py]. You need [Bottle][bottle] too but I've included that file in the repository, it will just work if bottle and tinchy are in the same directory. No database needed, tinchy uses shelve (which is included in Python) to persist URLs.
+Just [Python 2.5+][py] and [Bottle][bottle]. No database needed, tinchy uses shelve (which is included in Python) to persist URLs.
 
 Give it to me in bullets
 ------------------------
@@ -27,4 +27,4 @@ Give it to me in bullets
 * I hope it wont blow up but if it does then sorry :(
 
   [py]: http://python.org/
-  [bottle]: http://bottle.paws.de/
+  [bottle]: http://bottlepy.org/
