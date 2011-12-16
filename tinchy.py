@@ -1,7 +1,7 @@
 import bottle, random, shelve
 
 def generate_tinchy_id():
-    return ''.join(random.sample('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890', 3))
+    return ''.join(random.sample('abcdefghijklmnopqrstuvwxyz1234567890', 3))
 
 @route('/')
 def index():
